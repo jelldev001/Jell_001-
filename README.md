@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jelly+%F0%9F%91%8B;Software+Engineering+Student;Full+Stack+Developer+in+progress;Machine+Learning+%7C+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jelly+%F0%9F%91%8B;Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+%7C+Cybersecurity" alt="Typing SVG" />
 
 </div>
 
@@ -84,9 +84,9 @@ Monitoring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jlldev001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jlldev001&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlldev001&theme=redical&hide_border=true" alt="Activity Graph" width="90%"/>
 
 </div>
