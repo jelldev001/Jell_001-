@@ -1,23 +1,177 @@
-<!-- หัวข้อ -->
-### 💻 My favorite tools and technologies
+👋 Hi, I'm Jelly
+
+Software Engineering Student
+Full Stack Developer in progress
+
+━━━━━━━━━━━━━━━━━━━━
+
+🧠 Currently Learning
+
+Software Engineering
+TypeScript / Next.js
+PostgreSQL / Prisma
+Docker / Linux
+Machine Learning
+Cybersecurity
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🏪 POS System
+🎬 Movie Streaming
+🔐 Cybersecurity Labs
+
+━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Languages
+Python • TypeScript • JavaScript • C++
+
+Frontend
+React • Next.js • Tailwind
+
+Backend
+Node.js • PostgreSQL • Prisma
+
+DevOps
+Linux • Docker • GitHub
+
+ML
+Python • NumPy • Pandas • PyTorch
+
+Security
+Linux • Networking • Web Security
+
+━━━━━━━━━━━━━━━━━━━━
+
+📚 Current Goal
+
+Problem
+ ↓
+Design
+ ↓
+Algorithm / Data Structure
+ ↓
+Architecture
+ ↓
+Code
+ ↓
+Database
+ ↓
+API
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Monitoring# 👋 Hi, I'm Jelly
+
+💻 Software Engineering Student  
+🚀 Full Stack Developer  
+🤖 Machine Learning  
+🔐 Cybersecurity
+
+---
+
+## 🛠️ My favorite tools and technologies
 
 <table>
-  <tr>
-    <td>TensorFlow</td><td>Python</td><td>JavaScript</td><td>C++</td>
-  </tr>
-  <tr>
-    <td>PyTorch</td><td>MySQL</td><td>TypeScript</td><td>AWS</td>
-  </tr>
-  <tr>
-    <td>C#</td><td>Scikit-learn</td><td>Github</td><td>Git</td>
-  </tr>
-  <!-- เพิ่มแถวอื่นๆ ตามต้องการ -->
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50">
+<br>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="50">
+<br>TypeScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="50">
+<br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50">
+<br>C++
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50">
+<br>React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50">
+<br>Next.js
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50">
+<br>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50">
+<br>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prisma" width="50">
+<br>Prisma
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50">
+<br>Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50">
+<br>Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50">
+<br>Git
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50">
+<br>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50">
+<br>Tailwind
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=graphql" width="50">
+<br>GraphQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50">
+<br>Kubernetes
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="50">
+<br>Bash
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="50">
+<br>Ubuntu
+</td>
+</tr>
 </table>
 
-<div align="left">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python" width="100"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-ff69b4?style=for-the-badge&logo=tensorflow" width="100"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" width="100"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" width="100"/></a>
-  <!-- ใส่เพิ่มได้ตามนี้ -->
-</div>
