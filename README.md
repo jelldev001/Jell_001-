@@ -43,7 +43,6 @@
 
 </div>
 
-> ไอคอนพวกนี้จะหมุนวนรอบข้อความตรงกลางแบบมี glow effect — ถ้าอยากได้ badge เดี่ยวๆ แบบมีแสงวิ่งผ่าน ใช้ฟอร์แมตนี้แทน: `https://tech-stack.wontory.dev/api/badge?slug=nextdotjs&text=Next.js&highlight=true`
 
 ---
 
